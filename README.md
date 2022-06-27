@@ -53,22 +53,22 @@
 
 **Shimmer Loading**
 
-![<img src="/assets/image/shimmer_page.png" height="100"/>](/assets/image/loading.png)
+![<img src="/assets/image/shimmer_page.png" height="100"/>](/assets/image/shimmer_page.png)
 
 **Home Page**
 
-![<img src="/assets/image/home_page.png" height="100"/>](/assets/image/movie.png)
+![<img src="/assets/image/home_page.png" height="100"/>](/assets/image/home_page.png)
 
 **Search Page**
 
-![<img src="/assets/image/search_page.png" height="100"/>](/assets/image/movie.png)
+![<img src="/assets/image/search_page.png" height="100"/>](/assets/image/search_page.png)
 
 **Detail Movie Page**
 
-![<img src="/assets/image/detail_movie_page.png" height="100"/>](/assets/image/detail_movie.png)
+![<img src="/assets/image/detail_movie_page.png" height="100"/>](/assets/image/detail_movie_page.png)
 
-![<img src="/assets/image/description_movie_page.png" height="100"/>](/assets/image/detail_movie.png)
+![<img src="/assets/image/description_movie_page.png" height="100"/>](/assets/image/description_movie_page.png)
 
 **Profile Page**
 
-![<img src="/assets/image/profile_page.png" height="100"/>](/assets/image/tv.png)
+![<img src="/assets/image/profile_page.png" height="100"/>](/assets/image/profile_page.png)
