@@ -1,16 +1,74 @@
-# aditya_movie
 
-A new Flutter project.
+# Introduction
 
-## Getting Started
+- Name Application : Aditya Movie
+- State Management : GetX
+- Structure Project : Clean Architecture by Artekko https://github.com/Katekko/ekko_app
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Requirements :
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Flutter Version : > 2.8.1
+- Flutter SDK : > 2.15.1
+- OS : Windows / MacOs
+- Code Editor : VSCode
+- API Endpoint : https://imdb-api.com
+- Tested Emulator : Iphone 11 Pro (IOS Simulator)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Task Requirement Tech :
+
+    Create :
+
+-  Integrate API IMDB
+-  Create Home Page
+-  Create Search Movie with Image, Title and Description
+-  Create Detail Movie Page
+-  Create Profile
+  
+
+## Installation :computer:
+
+- Clone this repository with command :
+
+    git clone `https://github.com/SHC12/Aditya-tech-test.git`
+
+
+## Plugin
+
+-  get: `https://pub.dev/packages/get`
+-  google_fonts: `https://pub.dev/packages/google_fonts`
+-  sizer: `https://pub.dev/packages/sizer`
+-  remixicon: `https://pub.dev/packages/remixicon`
+-  intl: `https://pub.dev/packages/intl`
+-  flutter_svg: `https://pub.dev/packages/flutter_svg`
+-  carousel_slider: `https://pub.dev/packages/carousel_slider`
+-  curved_navigation_bar: `https://pub.dev/packages/curved_navigation_bar`
+-  flutter_rating_bar: `https://pub.dev/packages/flutter_rating_bar`
+-  readmore: `https://pub.dev/packages/readmore`
+-  dio: `https://pub.dev/packages/dio`
+-  shimmer: `https://pub.dev/packages/shimmer`
+
+
+## UI
+
+**Shimmer Loading**
+
+![<img src="/assets/image/shimmer_page.png" height="100"/>](/assets/image/loading.png)
+
+**Home Page**
+
+![<img src="/assets/image/home_page.png" height="100"/>](/assets/image/movie.png)
+
+**Search Page**
+
+![<img src="/assets/image/search_page.png" height="100"/>](/assets/image/movie.png)
+
+**Detail Movie Page**
+
+![<img src="/assets/image/detail_movie_page.png" height="100"/>](/assets/image/detail_movie.png)
+
+![<img src="/assets/image/description_movie_page.png" height="100"/>](/assets/image/detail_movie.png)
+
+**Profile Page**
+
+![<img src="/assets/image/profile_page.png" height="100"/>](/assets/image/tv.png)
