@@ -1,5 +1,5 @@
 class UrlListConstants {
-  static final apiKey = 'k_mu32xzxj';
+  static final apiKey = 'k_gzbv10iw';
   static final baseUrl = 'https://imdb-api.com/en/API/';
 
   static final urlPopularMovie = 'MostPopularMovies/$apiKey';
